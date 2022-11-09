@@ -1,0 +1,23 @@
+@import './components/Header.css';
+@import './pages/stylesheets/Home.css';
+@import './pages/stylesheets/Table.css';
+@import './pages/stylesheets/Main-nav.css';
+@import './pages/stylesheets/Form.css';
+@import './pages/stylesheets/Comments.css';
+@import './pages/stylesheets/Alert.css';
+
+:root {
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+main {
+  padding-top: 3.5rem;
+}

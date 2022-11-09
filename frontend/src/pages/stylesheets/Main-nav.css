@@ -1,0 +1,14 @@
+main > nav > ol {
+  display: flex;
+  list-style: none;
+  padding-left: 10rem;
+}
+
+main > nav > ol > li > a {
+  color: #2c3034;
+}
+
+main > nav > ol > li {
+  color: #6c757d;
+  padding-right: 0.5rem;
+}

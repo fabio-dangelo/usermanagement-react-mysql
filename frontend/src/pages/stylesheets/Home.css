@@ -1,0 +1,24 @@
+main > div {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 1.2rem;
+}
+
+main > div > h1 {
+  font-weight: 500;
+}
+
+main > div > a {
+  background-color: #212529;
+  height: 2.5rem;
+  width: 7rem;
+  border-radius: 0.2rem;
+  color: #f8f9fa;
+  text-decoration: none;
+  padding: 0.5rem;
+  padding-left: 0.7rem;
+  font-size: 1.1em;
+  margin-right: 1.2rem;
+  cursor: pointer;
+}
